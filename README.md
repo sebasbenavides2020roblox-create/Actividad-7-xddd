@@ -52,7 +52,10 @@ Las transacciones bancarias se hacían presencialmente y se registraban en formu
 | Inventarios | Conteo y registro manual | Control digital |
 
 ### 7. Tabla Automóvil
-Atributos: **Modelo, Marca**.
+Modelo,Marca
+2025,BMW
+2024,Toyota
+2026,Chevrolet
 
 ### 8. Tabla Paciente
 Atributos: **Nombre, Edad**.
