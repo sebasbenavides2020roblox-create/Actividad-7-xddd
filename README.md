@@ -1,4 +1,8 @@
-# Actividad 7 — Bases de datos, Python y MySQL
+# Actividad 7 — Bases de datos, Python y MySQLModelo,Marca
+2025,BMW
+2024,Toyota
+2026,Chevrolet
+
 
 Repositorio correspondiente a la **Actividad 7**.
 
